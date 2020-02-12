@@ -16,4 +16,3 @@ since the project is a clone in order to push
 to deploy
     1. PORT should be env variable
     2. package.json should have a start attribute/script
-asdbajbd.
