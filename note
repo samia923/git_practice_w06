@@ -4,3 +4,5 @@
 
 
 when you clone a project you dont need to initialise it in git again.
+
+message: to make sense of the commit to guide users and other programmers
