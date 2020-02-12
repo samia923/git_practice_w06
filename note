@@ -12,3 +12,7 @@ since the project is a clone in order to push
     2. create another origin
 
 > git remote -v : shows all links/connections
+
+to deploy
+    1. PORT should be env variable
+    2. package.json should have a start attribute/script
