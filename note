@@ -1,0 +1,6 @@
+> git clone url .
+
+    '.'-- indicates to pull only the files in the folder and not the entire folder.
+
+
+when you clone a project you dont need to initialise it in git again.
