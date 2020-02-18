@@ -11,6 +11,8 @@ since the project is a clone in order to push
     1. destroy current origin
     2. create another origin
 
+    command> git remote rm remotename
+
 > git remote -v : shows all links/connections
 
 to deploy
